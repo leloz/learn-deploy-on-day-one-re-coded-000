@@ -466,3 +466,12 @@ a:visited {
 .clearfix:after {
     clear: both;
 }
+
+
+#leloz-cover {
+  background-image: url("../assets/img/leloz-cover.jpg");
+}
+
+#leloz-card {
+  background-image: url("../assets/img/leloz.jpg");
+}
